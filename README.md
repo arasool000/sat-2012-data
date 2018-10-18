@@ -1,2 +1,2 @@
-# sat-2012-data
-hw2
+# hw2
+csv file for hw#2
